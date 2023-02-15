@@ -6,7 +6,7 @@ falso para distrair o usuário enquanto roda um programa malicioso em segundo pl
 inicializa outro programa para distrair o usuário (pode ser um jogo, um documento em pdf, qualquer coisa)
   - No nosso caso, colocamos o arquivo de um jogo (windowsframe.exe)
 - O código do malware foi programado para não abrir nenhuma janela, logo, só é possível finalizar sua execução através do gerenciador de tarefas
-- O malware captura todas as teclas ditiadas pelo usuário, além de anotar a aba acessada e o horário de digitação
+- O malware captura todas as teclas digitadas pelo usuário, além de anotar a aba acessada e o horário de digitação
 - Os dados não são enviados para terceiros ou divulgados. Estes são salvos em um documento na própria máquina
 
-#ATENÇÃO: O projeto em questão não possui fins maliciosos, nem deve ser usuado para tal. Ele possui fins de estudo de funcionamento.
+#ATENÇÃO: O projeto em questão não possui fins maliciosos, nem deve ser usado para tal. Ele possui fins de estudo de funcionamento.
