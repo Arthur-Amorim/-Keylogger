@@ -1,4 +1,4 @@
-# -Keylogger-Teste-do-Script
+# -Keylogger
 Projeto de estudo de funcionamento de malwares (keylogger). Seu funcionamento ocorre a partir de um arquivo em .bat que abre um arquivo 
 falso para distrair o usuário enquanto roda um programa malicioso em segundo plano.
 
