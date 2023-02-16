@@ -3,7 +3,6 @@ Projeto de estudo de funcionamento de malwares (keylogger). Seu funcionamento oc
 falso para distrair o usuário enquanto roda um programa malicioso em segundo plano.
 
 - O arquivo .bat serve apenas para inializar o arquivo "malware".exe (código de um programa que simula o malware, compilado e funcional em um arquivo executavel) ao mesmo tempo em que inicializa outro programa para distrair o usuário (pode ser um jogo, um documento em pdf, qualquer coisa)
-  - No nosso caso, colocamos o arquivo de um jogo (windowsframe.exe)
 - O código do malware foi programado para não abrir nenhuma janela, logo, só é possível finalizar sua execução através do gerenciador de tarefas
 - O malware captura todas as teclas digitadas pelo usuário, além de anotar a aba acessada e o horário de digitação
 - Os dados não são enviados para terceiros ou divulgados. Estes são salvos em um documento na própria máquina
